@@ -1,5 +1,5 @@
 # Diabetes-Software
-A Software to detect diabetes based on certain symptoms. Based on the PIMA Indians dataset on kaggle
+A ML based Software to detect diabetes based on certain symptoms. Based on the PIMA Indians dataset on kaggle
 
 
 Tools used:
